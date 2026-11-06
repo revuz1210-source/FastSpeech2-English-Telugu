@@ -1,0 +1,72 @@
+{
+ "E1": {
+  "original": "The antidisestablishmentarianism movement gained considerable momentum during the parliamentary proceedings.",
+  "model_text": "The antidisestablishmentarianism movement gained considerable momentum during the parliamentary proceedings.",
+  "n_symbols": 85,
+  "dropped_chars": [],
+  "seconds": 6.35,
+  "mean_f0_hz": 117.0,
+  "mean_energy": 9.679,
+  "longest_symbols": [
+   "OW0",
+   "SH",
+   "D"
+  ]
+ },
+ "E2a": {
+  "original": "The orchestra's conduct during the ceremony was praised by the audience.",
+  "model_text": "The orchestra's conduct during the ceremony was praised by the audience.",
+  "n_symbols": 50,
+  "dropped_chars": [],
+  "seconds": 4.17,
+  "mean_f0_hz": 113.8,
+  "mean_energy": 8.448,
+  "longest_symbols": [
+   "AA1",
+   "S",
+   "IY0"
+  ]
+ },
+ "E2b": {
+  "original": "The researchers will conduct an experiment to evaluate the proposed method.",
+  "model_text": "The researchers will conduct an experiment to evaluate the proposed method.",
+  "n_symbols": 56,
+  "dropped_chars": [],
+  "seconds": 4.42,
+  "mean_f0_hz": 117.2,
+  "mean_energy": 9.825,
+  "longest_symbols": [
+   "CH",
+   "Z",
+   "P"
+  ]
+ },
+ "E3": {
+  "original": "The rhythm of the orchestra changed unexpectedly.",
+  "model_text": "The rhythm of the orchestra changed unexpectedly.",
+  "n_symbols": 37,
+  "dropped_chars": [],
+  "seconds": 3.09,
+  "mean_f0_hz": 122.6,
+  "mean_energy": 10.88,
+  "longest_symbols": [
+   "AH0",
+   "IY0",
+   "K"
+  ]
+ },
+ "E4": {
+  "original": "The meeting will start at 10:45 AM on 12 November 2026, so andaroo should arrive on time.",
+  "model_text": "The meeting will start at ten forty five A M on twelve November twenty twenty six, so andaroo should arrive on time.",
+  "n_symbols": 79,
+  "dropped_chars": [],
+  "seconds": 7.51,
+  "mean_f0_hz": 122.8,
+  "mean_energy": 12.344,
+  "longest_symbols": [
+   "NG",
+   "S",
+   "T"
+  ]
+ }
+}
